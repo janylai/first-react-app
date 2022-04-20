@@ -1,0 +1,21 @@
+.extense-id{
+    width: 700px;
+    height: 500px;
+    background-color: gainsboro;
+}
+.list-style{
+    list-style-type: none;
+    text-align: center;
+    font-size: medium 20px;
+}
+.btn{
+    width: 60px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: gray;
+    border: none; 
+}
+.text-comp{
+    text-align: center;
+    font-size: medium 20px;
+}
